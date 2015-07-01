@@ -9,6 +9,7 @@ int is_leap_year(int year)
 		return 0;
 }
 
+/*
 int main()
 {
 	int a;
@@ -19,3 +20,4 @@ int main()
 	}
 	return 0;
 }
+*/
